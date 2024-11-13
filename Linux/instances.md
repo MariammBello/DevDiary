@@ -16,7 +16,7 @@ Universal ssh into instance
 ## Instance name: ubuntu-container2 <br/>
 
 ssh on only wsl: <br/>
-```-ssh -i Altschool-keypair-1.pem root@10.87.5.3```<br/>
+```ssh -i Altschool-keypair-1.pem root@10.87.5.3```<br/>
 Proxy configuration command for webserver: <br/>
 ```none defined for this instance```<br/>
 Proxy configuration command for ssh (ssh listens on 22):<br/>

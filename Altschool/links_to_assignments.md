@@ -50,28 +50,3 @@ Submit the Ansible playbook, the output of systemctl status apache2 after deploy
 
 
 
-#!binbash
-
-# run command to check apache status
-
-#run command to see index.php successfully installed - destination module in playbook
-
-cat /var/www/html/index.php  # File location for Apache web server
-
-# check server ip for index.php set as home
-http://51.20.191.169/
-
-#check serverip for apache index.html ubuntu 
-
-
-bash for nginx
-run command to check if nginx works 
-
-
-bash for 
-
-
-#instances
-
-
-
